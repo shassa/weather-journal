@@ -1,0 +1,43 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: large;
+    color: rgb(53, 43, 143);
+    padding: 0px;
+    margin: 0px;
+    background-color: cyan;
+}
+*{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 30px;
+}
+h1{
+    margin-left: 10%;
+}
+.col-7{
+    width: 60%;
+    display: inline;
+}
+.col-5{
+    width: 40%;
+    display: inline;
+    padding: 10px;
+    margin-top: 8%;
+}
+.row{
+    display: flex;
+}
+.form-control{
+    width: 80%;
+}
+#date,#temp,#content{
+    margin-top: 10%;
+    font-size: x-large;
+    margin: -15px;
+}
+button{
+    font-size: x-large;
+    color: chocolate;
+    margin-left:30%;
+    padding:10px 50px ;
+}
